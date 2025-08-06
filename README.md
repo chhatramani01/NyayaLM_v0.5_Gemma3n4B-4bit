@@ -152,7 +152,7 @@ trainer = SFTTrainer(
 
 ## Training Results
 
-*   **Training Time:** 45 minutes on a single P100 GPU
+*   **Training Time:** 2.2 hours on a single T4 GPU
 *   **Final Loss:** 0.2345
 *   **Trainable Parameters:** Only 0.39% of the total model (21M out of 5.46B)
 *   **Dataset Size:** 10,980 legal Q&A pairs from 61 legal documents
@@ -289,10 +289,10 @@ This is just starting phase of domain specific model, with your support it help 
 
 ## Submission Links
 
-*   **Video Demo:** Watch our 2-minute video demonstration: [NyayaLM: Democratizing Legal Access in Nepal](#) *(Note: Add actual video link)*
-*   **Technical Writeup:** Detailed technical documentation: [Medium Blog Post](#) *(Note: Add actual blog link)*
-*   **Code Repository:** Complete source code and training scripts: [GitHub Repository](#) *(Note: Add actual GitHub link)*
-*   **Live Demo:** Download and try the model: [Hugging Face - NyayaLM_v0.5_gguf](#) *(Note: Add actual Hugging Face link)*
+*   **Video Demo:** Watch our 2-minute video demonstration: [NyayaLM: Democratizing Legal Access in Nepal](#) 
+*   **Technical Writeup:** Detailed technical documentation: [Medium Blog Post](#)
+*   **Code Repository:** Complete source code and training scripts: [GitHub Repository](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/tree/main) *(Note: Add actual GitHub link)*
+*   **Live Demo:** Download and try the model: [Hugging Face - NyayaLM_v0.5_gguf](https://huggingface.co/chhatramani/NyayaLM_v0.5_gemma3n4B) *(Note: Add actual Hugging Face link)*
 *   **Project Team:** Chhatramani
 *   **Competition:** Google Gemma 3n Impact Challenge
 *   **Submission Date:** August 2025
