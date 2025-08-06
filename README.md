@@ -1,7 +1,10 @@
-# NyayaLM_v0.5_Gemma3n4B-4bit
-Introducing NyayaLM, a fine-tuned language model based on Google's Gemma 3n, specifically designed to provide accurate legal information in Nepali.
-
 # NyayaLM - Democratizing Legal Access in Nepal with Gemma 3n
+
+Demo
+![NyayaLM Demo](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/blob/main/ny2.png)
+![NyayaLM Demo](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/blob/main/ny3.png)
+![NyayaLM Demo](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/blob/main/ny4.png)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
