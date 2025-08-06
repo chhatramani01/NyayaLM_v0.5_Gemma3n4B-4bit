@@ -2,8 +2,6 @@
 
 Demo
 ![NyayaLM Demo](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/blob/main/ny2.png)
-![NyayaLM Demo](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/blob/main/ny3.png)
-![NyayaLM Demo](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/blob/main/ny4.png)
 
 
 ## Table of Contents
@@ -23,6 +21,9 @@ Demo
 In the heart of the Himalayas, Nepal stands as a nation of rich cultural diversity and complex legal traditions. Yet, beneath this beauty lies a persistent challenge: the inaccessibility of legal information for the majority of its citizens. With over 123 languages spoken and 60% of the population residing in rural areas, understanding legal rights and processes remains a privilege reserved for urban elites with access to legal professionals.
 
 NyayaLM is our response to this challenge—a fine-tuned language model based on Google's Gemma 3n, designed to provide accurate legal information in Nepali, running entirely offline on personal computers. This project represents our submission to the Google Gemma 3n Impact Challenge, demonstrating how AI can create meaningful, positive change in the world.
+
+Demo Response:
+![NyayaLM Demo](https://github.com/chhatramani01/NyayaLM_v0.5_Gemma3n4B-4bit/blob/main/ny4.png)
 
 ## Problem Statement
 
